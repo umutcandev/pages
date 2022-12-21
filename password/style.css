@@ -1,11 +1,11 @@
 * {
   margin: 0;
-  padding: 20px;
+  padding: 0;
   box-sizing: border-box;
 }
 
 body {
-  width: 100%;
+  width: 99%;
   height: 100vh;
   background-image: linear-gradient(to top, #209cff 100%, #68e0cf 200%);
   display: flex;
